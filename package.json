@@ -1,0 +1,20 @@
+{
+ "name": "js-test",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "test": "jest",
+  "test:all": "node 1.js && node 2.js && node 3.js && node 4.js && jest"
+ },
+ "author": "Ergenekon Yigit <yigitergenekon@gmail.com> (“https://ergenekonyigit.github.io/)",
+ "license": "ISC",
+ "devDependencies": {
+  "jest": "^22.0.4"
+ },
+ "jest": {
+  "testMatch": [
+   "**/5.js"
+  ]
+ }
+}
