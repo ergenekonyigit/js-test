@@ -1,1 +1,12 @@
+.idea
+.DS_Store
+.vscode
+
+build
 node_modules
+
+package-lock.json
+yarn.lock
+yarn-error.log
+
+*.orig

@@ -10,7 +10,7 @@
  "author": "Ergenekon Yigit <yigitergenekon@gmail.com> (“https://ergenekonyigit.github.io/)",
  "license": "ISC",
  "devDependencies": {
-  "jest": "^22.0.4"
+  "jest": "^23.6.0"
  },
  "jest": {
   "testMatch": [
